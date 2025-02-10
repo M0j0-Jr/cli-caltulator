@@ -43,7 +43,7 @@ make
 
 Once compiled, you can run the calculator by executing the following:
 
-./calculator
+./cli-caltulator
 
 Follow the on-screen prompts to enter numbers and select an operation.
 
